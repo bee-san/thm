@@ -28,3 +28,6 @@ thm close # commits and pushes to the git repo
 # Template repo
 Need a template repo so people cna fork it and copy it. Must have scripts in root, and folders for notes.
 
+# BashRC support
+
+Appends your BASHRC to the end of the current BASHRC
