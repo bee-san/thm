@@ -31,3 +31,7 @@ Need a template repo so people cna fork it and copy it. Must have scripts in roo
 # BashRC support
 
 Appends your BASHRC to the end of the current BASHRC
+
+# Thanks to
+HexChaos!!
+HexChaos is a new up & coming member of TryHackMe, don't be surprised if you see them on the leaderboard anytime ;)
